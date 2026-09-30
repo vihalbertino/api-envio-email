@@ -1,0 +1,4 @@
+.env
+mensagens.txt
+__pycache__/
+*.pyc
